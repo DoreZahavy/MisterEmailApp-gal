@@ -1,5 +1,6 @@
 {
   "name": "mister-email-app",
+  "homepage":"https://dorezahavy.github.io/MisterEmailApp-gal",
   "private": true,
   "version": "0.0.0",
   "type": "module",
